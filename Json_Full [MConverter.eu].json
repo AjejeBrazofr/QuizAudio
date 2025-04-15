@@ -2,41 +2,41 @@
   "quizList": [
     {
       "id": "1",
-      "question": "https://drive.google.com/uc?export=download&id=1Igw8uNQ8_2mS3cEvimtIcGQj9W8F2oUV",
+      "question": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Domanda_1.wav",
       "answers": [
-        "https://drive.google.com/uc?export=download&id=1TGVlo6D0yLmhMkNiP-EHOgOn_cPNMrxj",
-        "https://drive.google.com/uc?export=download&id=1uxR2wNRoQoTve3BHEFH3v0xntYVtIz2i",
-        "https://drive.google.com/uc?export=download&id=17IC9Yhbxizr3xtZFGPfq9swW6cg-fxIp"
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Risposta_1.wav",
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Risposta_2.wav",
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Risposta_3.wav"
       ],
       "correct_answer": 1
     },
     {
       "id": "2",
-      "question": "https://drive.google.com/uc?export=download&id=1I6bdD1Ke4aVnxdzb6ZEGK2LshYYB9Pew",
+      "question": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Domanda_2.wav",
       "answers": [
-        "https://drive.google.com/uc?export=download&id=1to0JwRI4FS8q6GycsQxL0zVn2bhFQS8H",
-        "https://drive.google.com/uc?export=download&id=1D1W_DRZDx4bPXebQ47WLSLkUmhC_Zrwc",
-        "https://drive.google.com/uc?export=download&id=1obZATzfP8egdh3SunD0Ct1ZJ3VbQqUFW"
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Risposta_1.wav",
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Risposta_2.wav",
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Risposta_3.wav"
       ],
       "correct_answer": 2
     },
     {
       "id": "3",
-      "question": "https://drive.google.com/uc?export=download&id=11onEX6StnuSHl5dBmOs_I9K7g_YseKaK",
+      "question": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Domanda_3.wav",
       "answers": [
-        "https://drive.google.com/uc?export=download&id=1MI789RpBwqdIWvZD1YkJJ35tx_71ZvxR",
-        "https://drive.google.com/uc?export=download&id=10Guf702SLcI2GW23_cNgqeWRuQOgVBHn",
-        "https://drive.google.com/uc?export=download&id=1RTzHUbzGNepLvZMX-SwFnk9sKH_uMz5S"
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Risposta_1.wav",
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Risposta_2.wav",
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Risposta_3.wav"
       ],
       "correct_answer": 3
     },
     {
       "id": "4",
-      "question": "https://drive.google.com/uc?export=download&id=1FzxFcmpeJCv4zmYGMi2HdlzRT0ExNkTi",
+      "question": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Domanda_4.wav",
       "answers": [
-        "https://drive.google.com/uc?export=download&id=1kCUG0Y8NDrXCuoilSF3lb8XGhCEKLMrg",
-        "https://drive.google.com/uc?export=download&id=1_KrblUG9ROi4zRJNaLy0NAjPvkuKfepO",
-        "https://drive.google.com/uc?export=download&id=1XafjIIM5ezPcOCCDQvMooemLuk5HR21y"
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Risposta_1.wav",
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Risposta_2.wav",
+        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Risposta_3.wav"
       ],
       "correct_answer": 2
     }
