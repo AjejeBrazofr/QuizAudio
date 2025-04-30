@@ -63,7 +63,7 @@
         "Michelangelo Buonarroti"
       ],
       "correct_answer": 2
-    }
+    },
     {
       "id": "5",
       "questionUrl": "",
@@ -79,7 +79,7 @@
         "Michelangelo Buonarroti"
       ],
       "correct_answer": 1
-    }
+    },
     {
       "id": "6",
       "questionUrl": "",
@@ -95,11 +95,11 @@
         "Raffaello"
       ],
       "correct_answer": 2
-    }
+    },
     {
       "id": "7",
       "questionUrl": "",
-      "question": "Quale famiglia è famosa per aver sponsorizzato artisti e scienziati durante il Rinascimentoa Firenze",
+      "question": "Quale famiglia è famosa per aver sponsorizzato artisti e scienziati durante il Rinascimento a Firenze",
       "answersUrl": [
         "",
         "",
@@ -111,7 +111,7 @@
         "I Medici"
       ],
       "correct_answer": 3
-    }
+    },
     {
       "id": "8",
       "questionUrl": "",
