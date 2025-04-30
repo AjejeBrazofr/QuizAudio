@@ -2,43 +2,131 @@
   "quizList": [
     {
       "id": "1",
-      "question": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Domanda_1.wav",
-      "answers": [
+      "questionUrl": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Domanda_1.wav",
+      "question": "Chi è considerato il padre del rinascimento italiano",
+      "answersUrl": [
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Risposta_1.wav",
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Risposta_2.wav",
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Risposta_3.wav"
+      ],
+      "answers": [
+        "Dante Alighieri",
+        "Francesco Petrarca",
+        "Giovanni Boccaccio"
       ],
       "correct_answer": 1
     },
     {
       "id": "2",
-      "question": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Domanda_2.wav",
-      "answers": [
+      "questionUrl": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Domanda_2.wav",
+      "question": "Quale celebre dipinto è stato realizzato da Leonardo da Vinci",
+      "answersUrl": [
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Risposta_1.wav",
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Risposta_2.wav",
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Risposta_3.wav"
+      ],
+      "answers": [
+        "La scuola di Atene",
+        "La Gioconda",
+        "Il giudizio universale"
       ],
       "correct_answer": 2
     },
     {
       "id": "3",
-      "question": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Domanda_3.wav",
-      "answers": [
+      "questionUrl": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Domanda_3.wav",
+      "question": "In quale città si trovava il cuore del rinascimento italiano",
+      "answersUrl": [
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Risposta_1.wav",
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Risposta_2.wav",
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Risposta_3.wav"
+      ],
+      "answers": [
+        "Roma",
+        "Venezia",
+        "Firenze"
       ],
       "correct_answer": 3
     },
     {
       "id": "4",
-      "question": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Domanda_4.wav",
-      "answers": [
+      "questionUrl": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Domanda_4.wav",
+      "question": "Chi ha scritto il principe: un trattato di politica rinascimentale",
+      "answersUrl": [
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Risposta_1.wav",
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Risposta_2.wav",
         "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Risposta_3.wav"
       ],
+      "answers": [
+        "Giovanni Boccaccio",
+        "Niccolò Macchiavelli",
+        "Michelangelo Buonarroti"
+      ],
       "correct_answer": 2
+    }
+    {
+      "id": "5",
+      "questionUrl": "",
+      "question": "Chi ha dipinto La nascita di Venere",
+      "answersUrl": [
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "Sandro Botticelli",
+        "Leonardo da Vinci",
+        "Michelangelo Buonarroti"
+      ],
+      "correct_answer": 1
+    }
+    {
+      "id": "6",
+      "questionUrl": "",
+      "question": "Chi ha scolpito il famoso David in marmo",
+      "answersUrl": [
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "Donatello",
+        "Michelangelo",
+        "Raffaello"
+      ],
+      "correct_answer": 2
+    }
+    {
+      "id": "7",
+      "questionUrl": "",
+      "question": "Quale famiglia è famosa per aver sponsorizzato artisti e scienziati durante il Rinascimentoa Firenze",
+      "answersUrl": [
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "Gli Sforza",
+        "I Borgia",
+        "I Medici"
+      ],
+      "correct_answer": 3
+    }
+    {
+      "id": "8",
+      "questionUrl": "",
+      "question": "Cos'è il mecenatismo nel rinascimento",
+      "answersUrl": [
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "Il sostegno economico agli artisti",
+        "Un tipo di pittura murale",
+        "Una scuola d'arte"
+      ],
+      "correct_answer": 1
     }
   ]
 }
