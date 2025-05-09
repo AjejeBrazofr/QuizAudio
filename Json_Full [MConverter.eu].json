@@ -2,12 +2,12 @@
   "quizList": [
     {
       "id": "1",
-      "questionUrl": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Domanda_1.wav",
+      "questionUrl": "",
       "question": "Chi è considerato il padre del rinascimento italiano",
       "answersUrl": [
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Risposta_1.wav",
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Risposta_2.wav",
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_1/Risposta_3.wav"
+        "",
+        "",
+        ""
       ],
       "answers": [
         "Dante Alighieri",
@@ -18,12 +18,12 @@
     },
     {
       "id": "2",
-      "questionUrl": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Domanda_2.wav",
+      "questionUrl": "",
       "question": "Quale celebre dipinto è stato realizzato da Leonardo da Vinci",
       "answersUrl": [
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Risposta_1.wav",
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Risposta_2.wav",
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_2/Risposta_3.wav"
+        "",
+        "",
+        ""
       ],
       "answers": [
         "La scuola di Atene",
@@ -34,12 +34,12 @@
     },
     {
       "id": "3",
-      "questionUrl": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Domanda_3.wav",
+      "questionUrl": "",
       "question": "In quale città si trovava il cuore del rinascimento italiano",
       "answersUrl": [
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Risposta_1.wav",
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Risposta_2.wav",
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_3/Risposta_3.wav"
+        "",
+        "",
+        ""
       ],
       "answers": [
         "Roma",
@@ -50,12 +50,12 @@
     },
     {
       "id": "4",
-      "questionUrl": "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Domanda_4.wav",
+      "questionUrl": "",
       "question": "Chi ha scritto il principe: un trattato di politica rinascimentale",
       "answersUrl": [
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Risposta_1.wav",
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Risposta_2.wav",
-        "https://raw.githubusercontent.com/AjejeBrazofr/QuizAudio/main/Domanda_4/Risposta_3.wav"
+        "",
+        "",
+        ""
       ],
       "answers": [
         "Giovanni Boccaccio",
